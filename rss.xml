@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[#NDLegendary]]></title>
         <description><![CDATA[#NDLegendary]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ndlegendary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 13:35:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 13:39:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ndlegendary/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sharing the beauty of our little slice of paradise on the prairie. </p>]]></description>
+            <link>https://thegrid.ai/ndlegendary/sharing-the-beauty-of-our-little-slice-of-paradise-on-the-pr/index.html</link>
+            <guid isPermaLink="false">80bef3e2-63e5-4c61-bfec-c09817df87f1</guid>
+            <pubDate>Thu, 24 Mar 2016 13:39:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcdb1cb1-178b-4585-9c40-038a806eb738.jpg">]]></description>
-            <link>undefined2d8efc24-3eab-4457-abc5-d1251626e7cc/index.html</link>
+            <link>https://thegrid.ai/ndlegendary/2d8efc24-3eab-4457-abc5-d1251626e7cc/index.html</link>
             <guid isPermaLink="false">2d8efc24-3eab-4457-abc5-d1251626e7cc</guid>
             <pubDate>Thu, 24 Mar 2016 13:34:58 GMT</pubDate>
         </item>
