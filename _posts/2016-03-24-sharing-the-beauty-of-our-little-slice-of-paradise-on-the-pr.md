@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sharing the beauty of our little slice of paradise on the prairie.\_"
-datePublished: '2016-03-24T13:54:47.233Z'
-dateModified: '2016-03-24T13:52:33.633Z'
+datePublished: '2016-03-24T18:26:48.672Z'
+dateModified: '2016-03-24T13:54:54.060Z'
 title: Sharing the beauty of our little slice of paradise on the prairie - 4e Winery.
 author: []
 sourcePath: _posts/2016-03-24-sharing-the-beauty-of-our-little-slice-of-paradise-on-the-pr.md
