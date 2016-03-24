@@ -1,0 +1,28 @@
+name: '#NDLegendary'
+favicon: null
+layout_spectrum: 0.10764253092929721
+typography_spectrum: 0.6928302058950067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6700767397414893
+  lightness: 0.633171628927812
+  saturation: 0.12139569665305316
+  rhythmicContrast: 0.7217219427693635
+purpose: []
